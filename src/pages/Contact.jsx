@@ -8,7 +8,7 @@ const Contact = () => {
       <form className="space-y-4">
         <input type="text" placeholder="Gagan Sai Eashwar" className="w-full p-2 border rounded" required />
         <input type="email" placeholder="gagansaieashwar" className="w-full p-2 border rounded" required />
-        <textarea placeholder="Your Message" className="w-full p-2 border rounded" rows="4" required></textarea>
+        <textarea placeholder="Let's connect" className="w-full p-2 border rounded" rows="4" required></textarea>
         <button type="submit" className="bg-blue-500 text-white px-4 py-2 rounded">Send Message</button>
       </form>
     </section>
